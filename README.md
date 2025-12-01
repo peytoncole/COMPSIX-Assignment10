@@ -11,7 +11,6 @@ This is a JWT-secured task management API that includes:
 ---
 
 ## ▶ Live API URL
-(Replace with your deployed link)
 
 🔗 https://your-app-name.onrender.com
 
@@ -19,8 +18,7 @@ This is a JWT-secured task management API that includes:
 
 ## ▶ GitHub Repository
 
-🔗 https://github.com/yourname/yourrepo
-
+https://github.com/peytoncole/COMPSIX-Assignment10
 ---
 
 ## 🛠 Tech Stack
